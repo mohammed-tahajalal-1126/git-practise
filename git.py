@@ -1,3 +1,4 @@
 name = input("Enter your name: ")
 age = int(input("Enter your age: "))
-print(f"Hello {name}, you are {age} years old!")
+print(f"Hello {name}, you are {age} years old.")
+print ("hello world this is my first code" )
